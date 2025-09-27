@@ -9,7 +9,8 @@ I’m a full-stack developer passionate about building **scalable, user-focused 
 - **Frontend & UI:** React, Next.js, Tailwind CSS  
 - **Backend & APIs:** Node.js, TypeScript, REST  
 - **Databases:** MongoDB, PostgreSQL, Supabase  
-- **Deployment & DevOps:** Vercel, Docker, CI/CD workflows  
+- **Deployment & DevOps:** Vercel, Docker, CI/CD workflows
+- **Version Control:** Git & GitHub  
 - **Machine Learning:** Studying core ML concepts, algorithms, and applications  
 
 ---
@@ -33,7 +34,6 @@ Continuous learning, building **meaningful solutions**, and exploring intelligen
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
